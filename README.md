@@ -94,3 +94,4 @@ make clean
 
 - Le projet a été testé sous MacOS et Linux.
 - Si vous manquez de mémoire, augmentez la valeur de `-Xmx` dans le Makefile.
+- **Seuls les fichiers GTFS de De Lijn et STIB sont inclus dans ce dépôt, car les fichiers TEC et SNCB sont trop volumineux pour être versionnés sur GitHub.**
